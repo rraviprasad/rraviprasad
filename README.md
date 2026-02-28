@@ -1,6 +1,3 @@
-# Professional GitHub Profile README
-Copy EVERYTHING below this line and paste it into your `rraviprasad/rraviprasad/README.md` file.
----
 # Hi, I'm Ravi 👋
 💻 **MERN Stack Developer** | **Backend Enthusiast**
 🚀 Building scalable web applications and automated systems.
@@ -19,7 +16,7 @@ Currently focused on deepening my knowledge in backend architecture, system desi
 | **Frontend** | React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS |
 | **Backend** | Node.js, Express.js, REST APIs, JWT Authentication |
 | **Database** | MongoDB, Mongoose, Firebase |
-| **Tools** | Git, GitHub, Postman, Vercel, Netlify |
+| **Tools** | Git, GitHub,  Vercel, Netlify Python|
 ---
 ### 🚀 Featured Projects
 #### 🔹 [Auto_Algo](https://github.com/rraviprasad/Auto_Algo)
