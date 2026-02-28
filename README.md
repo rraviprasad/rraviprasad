@@ -26,9 +26,5 @@ An AI-powered interview preparation tool that helps job seekers practice roles. 
 #### 🔹 [Trade_with_ravi](https://github.com/rraviprasad/Trade_with_ravi)
 An interactive educational platform for stock market beginners. Features structured learning paths, quizzes, and mock trading simulations to teach fundamental financial concepts.
 ---
-### 📈 GitHub Stats
-![Ravi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rraviprasad&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rraviprasad&layout=compact&theme=radical)
----
 ### 📫 Connect With Me
 [LinkedIn](https://linkedin.com/in/ravi-prasad-368559166) | [Portfolio](https://ravi-prasad-portfolio.vercel.app/) | [Email](mailto:raviprasad.work@gmail.com)
