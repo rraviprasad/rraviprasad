@@ -15,8 +15,8 @@ Currently focused on deepening my knowledge in backend architecture, system desi
 | :--- | :--- |
 | **Frontend** | React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS |
 | **Backend** | Node.js, Express.js, REST APIs, JWT Authentication |
-| **Database** | MongoDB, Mongoose, Firebase |
-| **Tools** | Git, GitHub,  Vercel, Netlify Python|
+| **Database** | MongoDB, Mongoose, Firebase, Atlas |
+| **Tools** | Git, GitHub,  Vercel, Netlify, Python |
 ---
 ### 🚀 Featured Projects
 #### 🔹 [Auto_Algo](https://github.com/rraviprasad/Auto_Algo)
